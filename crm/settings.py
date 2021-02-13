@@ -24,7 +24,7 @@ SECRET_KEY = 'l#%hoq02pb8cuo@p(a^urglgsl)_kj^50lfxj5dn+$8ch#)z@8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['customermgt-3d.herokuapp.com/', '127.0.0.1']
+ALLOWED_HOSTS = ['customermgt-3d.herokuapp.com', '127.0.0.1']
 
 # Application definition
 
